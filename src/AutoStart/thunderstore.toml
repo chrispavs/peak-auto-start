@@ -8,7 +8,7 @@ repository = "https://thunderstore.io"
 namespace = "chrispavs"
 name = "AutoStart"
 description = "Automatically load into a lobby when the game starts. Save time clicking buttons! Online by default. You can choose to start in offline mode via mod's config."
-websiteUrl = "" # TODO: Add a link to your mod repository here (optional)
+websiteUrl = "https://github.com/chrispavs/peak-auto-start"
 containsNsfwContent = false
 
 [package.dependencies]
