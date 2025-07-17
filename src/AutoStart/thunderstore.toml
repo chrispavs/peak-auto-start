@@ -1,5 +1,5 @@
 [config]
-schemaVersion = "1.0.0"
+schemaVersion = "0.0.1"
 
 [general]
 repository = "https://thunderstore.io"
@@ -7,7 +7,7 @@ repository = "https://thunderstore.io"
 [package]
 namespace = "chrispavs"
 name = "AutoStart"
-description = "Automatically load into a lobby when the game starts. Save time clicking buttons! Online by default. You can choose to start in offline mode via mod's config."
+description = "Automatically load into a lobby when the game starts. Save time clicking buttons!"
 websiteUrl = "https://github.com/chrispavs/peak-auto-start"
 containsNsfwContent = false
 
