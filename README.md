@@ -10,4 +10,4 @@ to load into the game very very fast.
 This mod loads into the "Host Lobby" (multiplayer) mode by default.
 
 You can choose instead to start in the Offline (solo) mode by enabling the
-`OfflineMode` setting in this mod's config.
+`OfflineMode` setting in the mod's config.

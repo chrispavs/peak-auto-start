@@ -10,7 +10,7 @@ class ChrisPavsAutoStartPatches
     private static bool started = false;
 
     [HarmonyPatch(typeof(MainMenu), nameof(MainMenu.Update))]
-    [HarmonyPrefix]
+    [HarmonyPostfix]
     private static void MainMenu_Update(MainMenu __instance)
     {
         if (!started)
